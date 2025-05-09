@@ -1,7 +1,5 @@
-knock knock
 who's there
 
-doctor, doctor?
-
+doctor, doctor*?
 
 test this
